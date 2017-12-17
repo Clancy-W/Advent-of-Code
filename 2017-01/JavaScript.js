@@ -18,5 +18,5 @@ function part2(inp) {
 	return o; //Send back answer to part 2
 }
 
-console.log("Part 1: " + part1(1111));
-console.log("Part 2: " + part2(1212))
+console.log("Part 1: " + part1("1111"));
+console.log("Part 2: " + part2("1212"));
